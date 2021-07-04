@@ -90,10 +90,10 @@ div{
  .image{
      height: 100%;
      width: 500px;
-     border: 100px solid blue;
+     border: 100px ;
      border-radius: 50%;
      float: left;
-     margin-left: 400px;
+     margin-left: 450px;
  }
  h3{
      font-size: 40px;
