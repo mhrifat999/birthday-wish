@@ -3,28 +3,28 @@
     
         background-attachment:fixed;
         background-size:cover;
-        background-color:blue;
+        background-color:black;
         background-image:url("https://wallpapercave.com/w/8IUlIup.jpg");
         border-radius:20px; 
         font-family: 'sans-serif';
     }
     
     @keyframes clips {
-    50% {
-    clip-path: polygon(50% 0%, 40% 80%, 100% 60%, 100% 80%, 90% 80%, 40% 100%, 10% 50%)
-    }
-    }
+        50% {
+        clip-path: polygon(50% 0%, 40% 80%, 100% 60%, 100% 80%, 90% 80%, 40% 100%, 10% 50%)
+        }
+        }
     h1{
-        color:#f2395a;
+        color:#4c39f2;
         text-transform:uppercase;
         text-shadow:1px 1px rgb(209, 14, 129),
                     2px 2px rgb(36, 36, 37),
-                    3px 3px rgb(209, 14, 49),
-                    4px 4px rgb(209, 14, 49),
-                    5px 5px rgb(36, 37, 69),
+                    3px 3px rgb(60, 209, 14),
+                    4px 4px rgb(192, 171, 175),
+                    5px 5px rgb(39, 45, 218),
                     6px 6px pink,
-                    7px 7px rgb(137, 9, 32),
-                    8px 8px rgb(137, 9, 48),
+                    7px 7px rgb(191, 240, 14),
+                    8px 8px rgb(137, 9, 9),
            9px 9px 13px rgba(0, 0, 0, 0.5);
          font-family:cookie;
     }
@@ -103,8 +103,11 @@
     }
     
      
-    #id{
-        color: yellow;
+    #song{
+        color: blueviolet;
+        text-align: center;
+        font-size: 20px;
+        margin-top: 10px;
     }   
 
     
